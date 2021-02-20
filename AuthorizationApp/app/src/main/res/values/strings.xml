@@ -1,0 +1,16 @@
+<resources>
+    <string name="appName">Authorization</string>
+    <string name="splashFragmentLabel">Splash Fragment</string>
+    <string name="authorizationFragmentLabel">Authorization Fragment</string>
+    <string name="mainFragmentLabel">Main Fragment</string>
+    <string name="appImage">Application Image</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signIn">Sign in</string>
+    <string name="signOut">Sign out</string>
+    <string name="lastAuthorizationDate">Last authorization on:</string>
+    <string name="appOutdated">Your app is outdated</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+</resources>
